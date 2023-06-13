@@ -18,7 +18,7 @@ function AppHeader() {
                     <MenuIcon />
                 </IconButton>
                 <Box component='img' sx={styles.appLogo} src="/src/assets/sample-logo.png"/>
-                <Typography sx={styles.appTitle}>The Great Wild</Typography>
+                <Typography sx={styles.appTitle}>Document Nature</Typography>
                 <Box sx={{flexGrow: 1}} />
                 <IconButton title='Notifications' color='secondary'>
                     <Badge badgeContent={4} color="error">
