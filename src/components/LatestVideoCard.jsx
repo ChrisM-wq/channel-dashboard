@@ -57,6 +57,7 @@ const styles = {
         textAlign: 'center',
         fontWeight: 'bold',
         fontSize: '1rem',
+        mx: 2,
         mb: 2
     },
     latestVideoTimeLabel: {
